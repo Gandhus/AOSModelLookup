@@ -1,0 +1,11 @@
+Anointed on Flamespyre Phoenix	Flaming Talons	Melee	2"	*	4+	3+	-1	2
+Anointed on Flamespyre Phoenix	Great Phoenix Halberd	Melee	2"	4	3+	3+	-1	1
+Anointed on Frostheart Phoenix	Ice-cold Talons	Melee	2"	*	3+	3+	-1	2
+Anointed on Frostheart Phoenix	Great Phoenix Halberd	Melee	2"	4	3+	3+	-1	1
+Battlemage on Griffon	Beaststaff	Melee	2"	1	4+	3+	-1	D3
+Battlemage on Griffon	Twin Beaks	Melee	2"	4	3+	3+	-1	*
+Battlemage on Griffon	Razor Claws	Melee	2"	*	4+	3+	-1	2
+Celestial Hurricanum with Celestial Battlemage	Storm of Shemtek	Missile	18"	1	-	-	-	-
+Celestial Hurricanum with Celestial Battlemage	Wizard's Staff	Melee	2"	1	4+	3+	-1	D3
+Celestial Hurricanum with Celestial Battlemage	Arcane Tools	Melee	1"	4	5+	5+	-	1
+Celestial Hurricanum with Celestial Battlemage	Steel-shod Hooves	Melee	1"	4	4+	4+	-	1

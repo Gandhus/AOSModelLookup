@@ -1,0 +1,20 @@
+Anointed on Flamespyre Phoenix	0-2	Move	16"	Flaming Talons	6	Wake of Fire	5
+Anointed on Flamespyre Phoenix	3-4	Move	14"	Flaming Talons	5	Wake of Fire	4
+Anointed on Flamespyre Phoenix	5-7	Move	12"	Flaming Talons	4	Wake of Fire	3
+Anointed on Flamespyre Phoenix	8-9	Move	10"	Flaming Talons	3	Wake of Fire	2
+Anointed on Flamespyre Phoenix	10+	Move	8"	Flaming Talons	2	Wake of Fire	1
+Anointed on Frostheart Phoenix	0-2	Move	16"	Ice-cold Talons	8	Blizzard Aura	9"
+Anointed on Frostheart Phoenix	3-4	Move	14"	Ice-cold Talons	6	Blizzard Aura	6"
+Anointed on Frostheart Phoenix	5-7	Move	12"	Ice-cold Talons	5	Blizzard Aura	3"
+Anointed on Frostheart Phoenix	8-9	Move	10"	Ice-cold Talons	4	Blizzard Aura	2"
+Anointed on Frostheart Phoenix	10+	Move	8"	Ice-cold Talons	3	Blizzard Aura	1"
+Battlemage on Griffon	0-3	Move	15"	Twin Beaks	3	Razor Claws	6
+Battlemage on Griffon	4-6	Move	13"	Twin Beaks	2	Razor Claws	5
+Battlemage on Griffon	7-9	Move	11"	Twin Beaks	3	Razor Claws	4
+Battlemage on Griffon	10-11	Move	9"	Twin Beaks	1	Razor Claws	3
+Battlemage on Griffon	12+	Move	7"	Twin Beaks	1	Razor Claws	2
+Celestial Hurricanum with Celestial Battlemage	0-2	Move	10"	Portents of Battle	10"	Storm of Shemtek	3
+Celestial Hurricanum with Celestial Battlemage	3-4	Move	9"	Portents of Battle	8"	Storm of Shemtek	2
+Celestial Hurricanum with Celestial Battlemage	5-6	Move	8"	Portents of Battle	6"	Storm of Shemtek	2
+Celestial Hurricanum with Celestial Battlemage	7-8	Move	7"	Portents of Battle	4"	Storm of Shemtek	1
+Celestial Hurricanum with Celestial Battlemage	9+	Move	6"	Portents of Battle	2"	Storm of Shemtek	1
